@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\Дмитрий\Desktop\c\Project1\INCLUDE\GLFW\glfw3.h(123): message : см. предыдущее определение "APIENTRY"
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(141,15): warning C4309: аргумент: усечение константного значения
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(142,141): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(142,94): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(142,48): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(142,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(154,44): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(155,44): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(159,44): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(160,44): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(164,32): warning C4244: -=: преобразование "GLdouble" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(166,33): warning C4244: +=: преобразование "GLdouble" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(202,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(203,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(205,20): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(206,20): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(229,24): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(233,21): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(242,21): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(247,33): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дмитрий\Desktop\c\Project1\Project1\main.cpp(250,33): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  1 of 164 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Project1.vcxproj -> C:\Users\Дмитрий\Desktop\c\Project1\x64\Release\Project1.exe
